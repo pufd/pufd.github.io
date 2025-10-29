@@ -1,6 +1,4 @@
 # pufd.github.io
-
-<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -25,7 +23,7 @@
 </head>
 <body>
   <main class="card" role="main">
-    <h1>Quick mobile calculator — shows ((input)*1.1)*1 in real time</h1>
+    <h1>Bottlo Tax Staff Price Calc</h1>
 
     <label for="num">Enter a number</label>
     <div class="row">
