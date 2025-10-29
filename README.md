@@ -23,7 +23,7 @@
 </head>
 <body>
   <main class="card" role="main">
-    <h1>Bottlo Tax Staff Price Calc</h1>
+    <h1>Bottlo Staff Price Calc</h1>
 
     <label for="num">Enter a number</label>
     <div class="row">
@@ -45,7 +45,7 @@
 
     <div style="display:flex;gap:8px;margin-top:12px;align-items:center">
       <button id="copy" class="copy">Copy result</button>
-      <div class="footer">Updates instantly as you type. Results shown with 2 decimal places.</div>
+      <div class="footer">Results shown with 2 decimal places.</div>
     </div>
   </main>
 
