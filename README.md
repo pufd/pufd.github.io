@@ -65,8 +65,8 @@
     function compute(value){
       const input = parseFloat(value);
       if (Number.isNaN(input)) return null;
-      // compute ((input)*1.1)*1 which simplifies to input * 1.1
-      const result = (input * 1.1) * 1;
+      // compute ((input)*1.1)*1.1
+      const result = (input * 1.1) * 1.1;
       return result;
     }
 
